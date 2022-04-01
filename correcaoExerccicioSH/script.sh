@@ -35,3 +35,6 @@ ls;
 echo "Remover diretorio chamado FOLDERNOVO";
 rm FolderNovo;
 
+#commit10
+echo "Verificar se o diretorio foi realmente removido";
+ls;
