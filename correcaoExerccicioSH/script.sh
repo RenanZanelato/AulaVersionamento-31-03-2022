@@ -31,3 +31,7 @@ mkdir testinho;
 echo "Verificar se os  diretorios acima, foram realmente criados"
 ls;
 
+#commit9
+echo "Remover diretorio chamado FOLDERNOVO";
+rm FolderNovo;
+
