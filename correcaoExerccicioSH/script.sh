@@ -10,3 +10,7 @@ date '+%d/%m/%Y %H:%M:%S';
 #commit3
 echo "Qual é meu diretorio atual?";
 pwd;
+
+#commit4
+echo "Usuario c onectado na maquina"
+whoami;
