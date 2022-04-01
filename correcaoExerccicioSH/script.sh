@@ -26,3 +26,8 @@ mkdir FolderNovo;
 #commit7
 echo "Criar um diretorio chamado TESTINHO";
 mkdir testinho;
+
+#commit8
+echo "Verificar se os  diretorios acima, foram realmente criados"
+ls;
+
