@@ -12,5 +12,9 @@ echo "Qual é meu diretorio atual?";
 pwd;
 
 #commit4
-echo "Usuario c onectado na maquina"
+echo "Usuario c onectado na maquina";
 whoami;
+
+#commit5
+echo "Conseguimos nos conectar ao google?";
+ping www.google.com.br;
