@@ -22,3 +22,7 @@ ping www.google.com.br;
 #commit6
 echo "Criar um diretoriochamado FolderNovo";
 mkdir FolderNovo;
+
+#commit7
+echo "Criar um diretorio chamado TESTINHO";
+mkdir testinho;
