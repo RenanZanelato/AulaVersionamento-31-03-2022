@@ -33,8 +33,12 @@ ls;
 
 #commit9
 echo "Remover diretorio chamado FOLDERNOVO";
-rm FolderNovo;
+rmdir FolderNovo;
 
 #commit10
 echo "Verificar se o diretorio foi realmente removido";
 ls;
+
+#commit11
+echo "Deu erro na segunda execução, por causa do testinho, Bora remover ele";
+rmdir TESTINHO;
