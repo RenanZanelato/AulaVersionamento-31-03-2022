@@ -18,3 +18,7 @@ whoami;
 #commit5
 echo "Conseguimos nos conectar ao google?";
 ping www.google.com.br;
+
+#commit6
+echo "Criar um diretoriochamado FolderNovo";
+mkdir FolderNovo;
